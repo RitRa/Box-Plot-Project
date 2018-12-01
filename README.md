@@ -2,7 +2,8 @@
 
 This repository contains a jupyter notebook which investigate the Box Plot.
 
-To run this notebook you must have jupyter installed on your machine. You can install this with the anaconda distribution. The notebook is called Box-Plot-Project - Project Dec 2018. You can view this file in nbviewer.
+To run this notebook you must have jupyter installed on your machine. You can install this with the anaconda distribution. The project is divided into two notebooks called [Box Plot Project ](Box%20Plot%20Project.ipynb) and 
+[Box Plot Project continued ](Box%20Plot%20Project%20continued.ipynb). You can view these files in nbviewer.
 
 A look at box plots: History, uses, terminology and alternatives
 
