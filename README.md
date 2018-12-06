@@ -15,13 +15,16 @@ Libraries used in this notebook include:
 - **Seaborn**: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 
-[Box Plot Project ](Box%20Plot%20Project.ipynb)
+
 
 ## A look at box plots: History, uses, terminology and alternatives
 
 1. Summarise the history of the box plot and situations in which it used.
+![pandas](boxplot_jtukey.png)
 2. Demonstrate the use of the box plot using data of your choosing.
+   -  Data set from data.gov.ie https://data.gov.ie/dataset/dungarvan-clonea-rainfall-data
 3. Explain any relevant terminology such as the terms quartile and percentile.
+   ![pandas](boxplotexample.png)
 4. Compare the box plot to alternatives.
 
 To do list
