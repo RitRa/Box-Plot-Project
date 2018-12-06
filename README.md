@@ -8,11 +8,11 @@ https://nbviewer.jupyter.org/
 
 Libraries used in this notebook include:
 
-Pandas: Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. pandas
+- **Pandas**: Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. pandas
 
-NumPy: NumPy is the fundamental package for scientific computing with Python. NumPy
+- **NumPy**: NumPy is the fundamental package for scientific computing with Python. NumPy
 
-Seaborn: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+- **Seaborn**: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 
 [Box Plot Project ](Box%20Plot%20Project.ipynb)
