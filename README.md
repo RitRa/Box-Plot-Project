@@ -34,5 +34,5 @@ To do list
 - [ ] Demonstrate the use of the box plot using data of your choosing.
 - [ ] Explain any relevant terminology such as the terms quartile and percentile.
 - [ ] Compare the box plot to alternatives.
-- [ ] Improve Readme
+
 
