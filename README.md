@@ -23,7 +23,17 @@ Libraries used in this notebook include:
 Example of John Tukey Box Plot from 1977
 ![pandas](boxplot_jtukey.png)
 2. Demonstrate the use of the box plot using data of your choosing.
-   -  Data set used https://data.gov.ie/dataset/dungarvan-clonea-rainfall-data
+    https://cli.fusio.net/cli/climate_data/webdata/dly2007.csv
+    Data: Dungarvan (Clonea) Rainfall Data
+    Station Name: BENNETTSBRIDGE G.S.	
+    Station Height: 37 M	
+    Latitude: 52.587	
+    Longitude: -7.183
+    - date:  1995 to 1997
+    - rain: Precipitation Amount (mm)	
+    - ind:  Indicator	
+
+
 3. Explain any relevant terminology such as the terms quartile and percentile.
    ![pandas](boxplotexample.png)
 4. Compare the box plot to alternatives.
