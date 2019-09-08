@@ -2,7 +2,8 @@
 
 This repository contains a jupyter notebook which investigates the Box Plot.
 
-To run this notebook you must have jupyter installed on your machine. You can install this with the anaconda distribution. The project is available here [Box Plot Project ](https://nbviewer.jupyter.org/github/RitRa/Anscombe-s_quartet-dataset/blob/master/Box%20Plot%20Project.ipynb)
+To run this notebook you must have jupyter installed on your machine. You can install this with the anaconda distribution. The project is available here [Box Plot Project ](https://nbviewer.jupyter.org/github/RitRa/Box-Plot-Project/blob/master/Box%20Plot%20Project.ipynb)
+
 
 You can also view the file in nbviewer. Unfortunately, sometimes large jupyter files won't load in github https://nbviewer.jupyter.org/
 
